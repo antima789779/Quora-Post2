@@ -1,0 +1,102 @@
+h1{
+color: coral
+}
+.post{
+
+
+/* https://grabient.com/HQJgjAnANMEBzWAVgMwppA7DTKAsMEYAbBktqGBSHHFCMsQSskgAxR7CZhxA?style=linearGradient&steps=7&angle=180 */
+
+/* background: linear-gradient(180deg, rgba(10, 74, 89, 1.000) 0.000%, rgba(13, 92, 159, 1.000) 16.667%, rgba(18, 118, 227, 1.000) 33.333%, rgba(24, 150, 255, 1.000) 50.000%, rgba(31, 188, 255, 1.000) 66.667%, rgba(39, 230, 255, 1.000) 83.333%, rgba(47, 255, 255, 1.000) 100.000%) */
+/* https://grabient.com/HQVgTAjANMCcAcsYBZZLiA7DTA2bwkAzDAAwQgwSbJViW7DymkwjK5TLC4dA?style=linearGradient&steps=7&angle=180 */
+
+/* background: linear-gradient(180deg, rgba(208, 65, 94, 1.000) 0.000%, rgba(212, 78, 100, 1.000) 16.667%, rgba(216, 97, 107, 1.000) 33.333%, rgba(219, 121, 113, 1.000) 50.000%, rgba(223, 149, 120, 1.000) 66.667%, rgba(226, 181, 127, 1.000) 83.333%, rgba(230, 216, 134, 1.000) 100.000%); */
+/* https://grabient.com/HQdgLAbANKkwnPAzFAtABmAJnQRhruumpocRsGDiZVtBZGDOgKwsw4g1ZVA?style=linearGradient&steps=7&angle=180 */
+
+background: linear-gradient(180deg, rgba(142, 197, 252, 1.000) 0.000%, rgba(139, 207, 255, 1.000) 16.667%, rgba(146, 214, 255, 1.000) 33.333%, rgba(161, 216, 255, 1.000) 50.000%, rgba(182, 213, 255, 1.000) 66.667%, rgba(205, 205, 255, 1.000) 83.333%, rgba(224, 195, 255, 1.000) 100.000%);
+}
+.user{
+    font-style:italic;
+}
+.Quora{
+  text-align: center; 
+  color:blue ; 
+}
+button{
+ /* https://grabient.com/HQJgjAnANMEBzWAVgMwppA7DTKAsMEYAbBktqGBSHHFCMsQSskgAxR7CZhxA?style=linearGradient&steps=7&angle=180 */
+
+background: linear-gradient(180deg, rgba(10, 74, 89, 1.000) 0.000%, rgba(13, 92, 159, 1.000) 16.667%, rgba(18, 118, 227, 1.000) 33.333%, rgba(24, 150, 255, 1.000) 50.000%, rgba(31, 188, 255, 1.000) 66.667%, rgba(39, 230, 255, 1.000) 83.333%, rgba(47, 255, 255, 1.000) 100.000%);
+   height: 40px;
+   width:100px;
+   border-radius:12px ;
+   border:2px,solid,black;
+   margin: 3px;
+   font-size:15px ;
+
+}
+.content{
+    font-size:23px;
+}
+.user{
+    font-size:25px; 
+}
+.seeInDetail{
+    color: black;
+ font-weight:600px;
+}
+.Edit{
+ color: black;
+ font-weight:600px;
+ 
+}
+.Delete{
+ font-weight:600px;
+}
+.Post id{
+font-weight:600px;
+}
+.post Username{
+font-weight:600px;
+font-size:25px ;
+}
+.editPost{
+font-weight:700px;
+}
+div{
+   background: linear-gradient(180deg, rgba(142, 197, 252, 1.000) 0.000%, rgba(139, 207, 255, 1.000) 16.667%, rgba(146, 214, 255, 1.000) 33.333%, rgba(161, 216, 255, 1.000) 50.000%, rgba(182, 213, 255, 1.000) 66.667%, rgba(205, 205, 255, 1.000) 83.333%, rgba(224, 195, 255, 1.000) 100.000%);
+}
+textarea{
+    height:120px;
+    width:400px;
+   margin-left:  200px;
+   margin-top:10px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+  margin-left:  200px;
+   margin-top:10px ;
+    height:30px;
+       display: flex;
+    justify-content: center;
+     align-items: center;
+}
+body{
+   background: linear-gradient(180deg, rgba(142, 197, 252, 1.000) 0.000%, rgba(139, 207, 255, 1.000) 16.667%, rgba(146, 214, 255, 1.000) 33.333%, rgba(161, 216, 255, 1.000) 50.000%, rgba(182, 213, 255, 1.000) 66.667%, rgba(205, 205, 255, 1.000) 83.333%, rgba(224, 195, 255, 1.000) 100.000%);
+}
+.showDiv{
+    /* https://grabient.com/HQVgTAjANMCcAcsYBZZLiA7DTA2bwkAzDAAwQgwSbJViW7DymkwjK5TLC4dA?style=linearGradient&steps=7&angle=180 */
+
+background: linear-gradient(180deg, rgba(208, 65, 94, 1.000) 0.000%, rgba(212, 78, 100, 1.000) 16.667%, rgba(216, 97, 107, 1.000) 33.333%, rgba(219, 121, 113, 1.000) 50.000%, rgba(223, 149, 120, 1.000) 66.667%, rgba(226, 181, 127, 1.000) 83.333%, rgba(230, 216, 134, 1.000) 100.000%);
+
+}
+.newDiv{
+/* https://grabient.com/HQJgjAnANMEBzWAVgMwppA7DTKAsMEYAbBktqGBSHHFCMsQSskgAxR7CZhxA?style=linearGradient&steps=7&angle=180 */
+
+background: linear-gradient(180deg, rgba(10, 74, 89, 1.000) 0.000%, rgba(13, 92, 159, 1.000) 16.667%, rgba(18, 118, 227, 1.000) 33.333%, rgba(24, 150, 255, 1.000) 50.000%, rgba(31, 188, 255, 1.000) 66.667%, rgba(39, 230, 255, 1.000) 83.333%, rgba(47, 255, 255, 1.000) 100.000%);
+}
+.EditDiv{
+    /* https://grabient.com/HQFgjGA0oBw5ZgAYQkgWicAzCArNNgGzybBhLYZZ4BMA7NcHVGdnktBVcnvOUXpA?style=linearGradient&steps=7&angle=180 */
+
+background: linear-gradient(180deg, rgba(35, 212, 253, 1.000) 0.000%, rgba(17, 217, 246, 1.000) 16.667%, rgba(26, 195, 241, 1.000) 33.333%, rgba(58, 152, 240, 1.000) 50.000%, rgba(104, 101, 242, 1.000) 66.667%, rgba(150, 58, 248, 1.000) 83.333%, rgba(183, 33, 255, 1.000) 100.000%);
+}
