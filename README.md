@@ -65,7 +65,7 @@ quora-post-mysql/ ├── models/ │   └── post.js           # Sequeliz
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/quora-post-mysql.git
+   git clone https://github.com/antima789779/Quora-Post2.git
    cd quora-post-mysql
 2- Install dependencies
 npm install
